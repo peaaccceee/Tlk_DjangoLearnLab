@@ -6,4 +6,11 @@ The goal is to:
 - define a model
 - and display data using the MTV pattern.
 
+# Project: Personal Blog - Part 2 (Full CRUD)
+
+This project is part od **Week 3** of Learning Django.
+The goal is to:
+-  implement the full Create, Read, Update, and Delete functionality using ModelForms; and
+-  customize the admin interface.
+
 
